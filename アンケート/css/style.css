@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  background-color: honeydew;
+}
+
+h1 {
+  text-align: center;
+  color: firebrick;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+}
+
+div {
+  width: 300px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  margin: 0 auto;
+  /* margin-top: 100px; */
+  border: green solid 2px;
+  /* background-image:url(); */
+}
+img {
+  width: 300px;
+  height: 300px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.setumei {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+a p {
+  font-size: 20px;
+  font-weight: 100;
+}
+
+#article {
+  background-color: lightgreen;
+}
+
+#question {
+  background-color: limegreen;
+}
