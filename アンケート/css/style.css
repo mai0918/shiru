@@ -5,14 +5,20 @@
 }
 
 body {
+  width: 500px;
+  height: 700px;
   margin: 0 auto;
-  background-color: honeydew;
+  background-color: papayawhip;
 }
 
 h1 {
-  text-align: center;
+  width: 200px;
   color: firebrick;
+  text-align: center;
   font-family: "M PLUS Rounded 1c", sans-serif;
+  margin: 0 auto;
+  margin-top: 30px;
+  border-bottom: brown double 6px;
 }
 
 div {
@@ -22,7 +28,7 @@ div {
   line-height: 100px;
   margin: 0 auto;
   /* margin-top: 100px; */
-  border: green solid 2px;
+  /* border: red solid 2px; */
   /* background-image:url(); */
 }
 img {
@@ -37,7 +43,7 @@ a {
 .setumei {
   font-size: 20px;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 90px;
   margin-bottom: 10px;
 }
 
@@ -47,9 +53,9 @@ a p {
 }
 
 #article {
-  background-color: lightgreen;
+  background-color: indianred;
 }
 
 #question {
-  background-color: limegreen;
+  background-color: lightcoral;
 }
